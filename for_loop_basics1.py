@@ -43,3 +43,8 @@ mult = 15
 for n in range(low_num, high_num):
     if n%15 == 0:
         print(n)
+
+
+x = [5,34,10,1,6]
+x.append(2)
+print(x)
